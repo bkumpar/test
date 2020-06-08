@@ -1,4 +1,1 @@
-total 2
--rw-rw-r--  1 bkumpar bkumpar    0 Lip  8 09:37 file.txt
--rw-rw-r--  1 bkumpar bkumpar    6 Lip  8 09:37 README.md
-try to do sometnig unusual...
+total 0
